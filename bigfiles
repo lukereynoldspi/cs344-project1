@@ -1,0 +1,1 @@
+ls -la -S -r /usr/bin | tail -n 7
