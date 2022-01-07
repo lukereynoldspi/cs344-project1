@@ -1,2 +1,2 @@
 echo $1
-ls -la -S -r $1 | tail -n 7
+ls -la -S $1 | head -n 8

@@ -1,1 +1,1 @@
-ls -la -S -r /usr/bin | tail -n 7
+ls -la -S /usr/bin | head -n 8
